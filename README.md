@@ -1,14 +1,26 @@
 # @buho/components
 
-## stories
+## usage
 
-run dev mode
+preview the components with ladle
 
 ```bash
-pnpm ladle serve
+pnpm run dev
 ```
 
-## usage
+build the library for usage
+
+```bash
+pnpm run build
+```
+
+## explanation
+
+`./src/lib` holds our components
+
+`./src/components` holds shadcn components
+
+`./src/components.stories.tsx` holds ladle's stories to preview components
 
 ## tech stack
 
