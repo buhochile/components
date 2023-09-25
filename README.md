@@ -16,9 +16,9 @@ pnpm run build
 
 ## explanation
 
-`./src/lib` holds our components
+`./src/lib` holds custom components
 
-`./src/components` holds shadcn components
+`./src/components` holds shadcn components (that are most likely modified by us)
 
 `./src/components.stories.tsx` holds ladle's stories to preview components
 
