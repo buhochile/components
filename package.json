@@ -2,26 +2,11 @@
   "name": "@buho/components",
   "license": "MIT",
   "version": "0.0.1",
-  "type": "module",
-  "main": "dist",
-  "files": [
-    "dist"
-  ],
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
   "publishConfig": {
     "access": "public"
-  },
-  "exports": {
-    "./lib": {
-      "types": "./dist/lib.d.ts",
-      "import": "./dist/lib.ts"
-    }
-  },
-  "typesVersions": {
-    "*": {
-      "lib": [
-        "dist/lib.d.ts"
-      ]
-    }
   },
   "scripts": {
     "dev": "ladle serve",
