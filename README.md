@@ -1,8 +1,10 @@
 # @buho/components
 
+[![validation](https://github.com/buhochile/components/actions/workflows/validation.yml/badge.svg)](https://github.com/buhochile/components/actions/workflows/validation.yml)
+
 ## usage
 
-preview the components with ladle
+preview the components with storybook
 
 ```bash
 pnpm run dev
@@ -20,10 +22,9 @@ pnpm run build
 
 `./src/components` holds shadcn components (that are most likely modified by us)
 
-`./src/components.stories.tsx` holds ladle's stories to preview components
-
 ## tech stack
 
 - react w/ typescript and tailwind css
 - @shadcn/ui
 - vaul
+- swiper

@@ -12,9 +12,9 @@ const buttonVariants = cva(
         primary:
           "bg-blue-900 text-blue-50 shadow hover:bg-blue-900/90 dark:bg-blue-50 dark:text-blue-900 dark:hover:bg-blue-50/90",
         danger:
-          "bg-red-500 text-slate-50 shadow-sm hover:bg-red-500/90 dark:bg-red-900 dark:text-slate-50 dark:hover:bg-red-900/90",
+          "bg-red-600 text-slate-50 shadow-sm hover:bg-red-500/90 dark:bg-red-900 dark:text-slate-50 dark:hover:bg-red-900/90",
         success:
-          "bg-green-600 text-slate-50 shadow-sm hover:bg-green-600/90 dark:bg-green-900 dark:text-slate-50 dark:hover:bg-green-900/90",
+          "bg-green-700 text-slate-50 shadow-sm hover:bg-green-600/90 dark:bg-green-900 dark:text-slate-50 dark:hover:bg-green-900/90",
         outline:
           "border border-slate-200 bg-transparent shadow-sm hover:bg-slate-100 hover:text-slate-900 dark:border-slate-800 dark:hover:bg-slate-800 dark:hover:text-slate-50",
         ghost:
