@@ -1,7 +1,8 @@
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Navigation } from "swiper/modules";
-import "swiper/css";
-import "swiper/css/navigation";
+// TODO: find a way to import css
+// import "swiper/css";
+// import "swiper/css/navigation";
 
 type Props = {
   images: string[] | { image: string; alt: string }[];
