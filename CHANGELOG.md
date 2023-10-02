@@ -1,5 +1,11 @@
 # @buho/components
 
+## 0.2.1
+
+### Patch Changes
+
+- e46a0eb: remove carousel from lib
+
 ## 0.2.0
 
 ### Minor Changes
