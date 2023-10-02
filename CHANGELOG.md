@@ -1,5 +1,11 @@
 # @buho/components
 
+## 0.2.0
+
+### Minor Changes
+
+- 4b075e4: remove css imports
+
 ## 0.1.1
 
 ### Patch Changes
