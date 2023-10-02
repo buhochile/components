@@ -1,5 +1,12 @@
 import { Drawer } from "@lib/Drawer";
 import { Button } from "@/components/ui/button";
+import Carousel from "./lib/Carousel";
+
+export const carousel = () => (
+  <>
+    <Carousel />
+  </>
+);
 
 export const button = () => (
   <>
