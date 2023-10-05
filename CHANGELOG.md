@@ -1,5 +1,15 @@
 # @buho/components
 
+## 0.3.0
+
+### Minor Changes
+
+- 9be9fe3: add sheet
+
+### Patch Changes
+
+- 9be9fe3: merge conflict solved
+
 ## 0.2.1
 
 ### Patch Changes
