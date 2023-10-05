@@ -5,3 +5,4 @@ export { cn } from "./utils";
 // export { Carousel } from "./Carousel";
 export { Drawer } from "./Drawer";
 export { Button } from "./../components/ui/button";
+export * from "@/components/ui/sheet";
